@@ -4,7 +4,7 @@ For this challenge, I was asked to  build a command-line application from scratc
 ## Links:
 Link to Demonstration Video: https://drive.google.com/file/d/1gd-BU1K6g-rqb-r-kJReXzqCXRPMeeM_/view
 
-Link to GitHub Repository:
+Link to GitHub Repository: https://github.com/angelgiovanna/employee-tracker
 
 ## User Story
 AS A business owner
