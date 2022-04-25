@@ -2,7 +2,7 @@
 For this challenge, I was asked to  build a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.
 
 ## Links:
-Link to Demonstration Video: 
+Link to Demonstration Video: https://drive.google.com/file/d/1gd-BU1K6g-rqb-r-kJReXzqCXRPMeeM_/view
 
 Link to GitHub Repository:
 
